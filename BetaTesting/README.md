@@ -10,4 +10,4 @@ This work is licensed under a
 [cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
 
 These designs are currently being tested more thoroughly before making a formal addition or revison to the main design. These parts have been successfully printed and survived at least 1 thermal cycle between liquid nitrogen and room temperatire without breaking. 
-However, the longevity, stability, and temperature performance of these parts may not have been characterized. Each design will come with its own README file documenting what has and has not been tested. 
+However, the longevity, stability, and temperature performance of these parts may not have been characterized. Each design will come with its own README file documenting what has and has not been tested. These parts are intended for advanced users only.
