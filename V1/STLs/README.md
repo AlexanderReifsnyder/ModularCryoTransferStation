@@ -9,5 +9,5 @@ This work is licensed under a
 [cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
 [cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
 
-Some files are too large to be uploaded directly to Github. You can find the complete set of STL files on the Printables.com page for this project. 
+Some files are too large to be uploaded directly to Github. You can find the uncompressed STL files on the Printables.com page for this project. 
 https://www.printables.com/model/579636-cryotransfer-station/files
